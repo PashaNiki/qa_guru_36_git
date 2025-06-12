@@ -2,7 +2,7 @@ package com.nikimoonprod;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello and welcome to AQA!");
+        System.out.println("Hello and welcome to AQA!!?? Hello World");
     }
     private static String getMessage(){
         return "Hello QA.GURU and Pashok 12.06";

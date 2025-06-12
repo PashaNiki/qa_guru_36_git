@@ -1,9 +1,10 @@
 package com.nikimoonprod;
 
-private static String msg "Hello QA.GURU!!!!! Uaaaa??? and Pavel";
-
 public class Main {
     public static void main(String[] args) {
-        System.out.printf(msg);
+        System.out.println("Hello and welcome to AQA!");
+    }
+    private static String getMessage(){
+        return "Hello QA.GURU and Pashok 12.06";
     }
 }

@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello and welcome to AQA!");
     }
     private static String getMessage(){
-        return "Hello QA.GURU and Pasha";
+        return "Hello QA.GURU and Pashok vip";
     }
 }
